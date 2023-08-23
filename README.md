@@ -11,12 +11,9 @@ Employee Class: The Employee class represents an employee with attributes such a
 
 EmployeeTest Class: The EmployeeTest class serves as the entry point for the program. It demonstrates the following features:
 
-
-      Creating Employee objects using the constructor and user input.
-
-      Displaying employee details.
-
-      Updating employee details using setters.
+1. Creating Employee objects using the constructor and user input.
+2. Displaying employee details.
+3. Updating employee details using setters.
 
 
 ## How to Run
