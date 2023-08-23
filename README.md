@@ -35,6 +35,4 @@ Run the compiled program:
       
 
 
-## Author
-
-## Rahul Khare
+## Author : Rahul Khare
